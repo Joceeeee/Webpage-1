@@ -1,2 +1,2 @@
 # ISYS3004
-This repo will keep all my business web and mobile technologies working
+This repo is about project 1 in ISYS3004
